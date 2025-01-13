@@ -48,7 +48,7 @@ Exemplo:
 
 python
 Copiar código
-"qual é o time mais popular do brasil?": ["O Flamengo é o time mais popular do Brasil."]
+"qual é o time mais popular do brasil?": ["O Vasco é o time mais popular do Brasil."]
 Contribuindo
 Se você gostaria de contribuir para este projeto, fique à vontade para abrir um pull request. Qualquer sugestão de melhoria ou nova funcionalidade será bem-vinda!
 
